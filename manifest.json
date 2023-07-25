@@ -1,0 +1,17 @@
+{
+  "vendor": "store",
+  "name": "search-result--pagination",
+  "version": "0.0.0",
+  "title": "VTEX Search Result Pagination",
+  "description": "A classic pagination component",
+  "defaultLocale": "pt-BR",
+  "builders": {
+    "store": "0.x",
+    "react": "3.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x",
+    "vtex.search-page-context": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
